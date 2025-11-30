@@ -1,3 +1,4 @@
-﻿# 2012-Federal-Election-Database
+﻿# US Political Donations Analysis
 
-I'll practice some data analysis on the 2012 Federal Election Commission Database as shown in Wes McKinney's Python for Data Analysis
+I'll practice some data analysis on the Federal Election Commission Database on individual political contributions.
+
